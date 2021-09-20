@@ -10,17 +10,23 @@ Restaurant management system have four modules namely Customer, Admin, Kitchen M
     
     
 ## Technologies used: 
-
-HTML, CSS, Bootstrap, Angular Material, Prime NG, Angular10, Spring Boot, Hibernate.
+* HTML
+* CSS
+* Bootstrap
+* Angular Material
+* Prime NG
+* Angular10
+* Spring Boot
+* Hibernate.
 
  Angular Branch contain Angular part of this application. Spring Branch contain Spring part of this application
  
  ## Features:
   * Customer will be able to add or remove/add order from the cart.
   * After placing the order costomer can cancel the order.
-  * Once the order is received, Kitchen master will be able to acknowledge it by clicking on serving.
-  * Admin can remove/add the dishes, also admin will be able to add/remove kitchen/supervisor.
-  * For any help customer will raise a ticket for help, supervisor will get a notification and acknowledge.
+  * Once the order is received, Kitchen master will be able to acknowledge it by clicking on     serving.
+  * Admin can remove/add the dishes, also admin will be able to add/remove     kitchen/supervisor.
+  * For any help customer will raise a ticket for help, supervisor will get a notification  and acknowledge.
   
   ### To-Do
    * Will use jwt in the future.
