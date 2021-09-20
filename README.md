@@ -26,7 +26,7 @@ HTML, CSS, Bootstrap, Angular Material, Prime NG, Angular10, Spring Boot, Hibern
    * Will use jwt in the future.
 
 
-  ##Usage
+  ## Usage
    open the project on eclipse API. Add all the dependencies, right click and run your
    project on tomcat server, once the project is started open the url and write
    localhost:8080, back-end code will run on this url. Now to run the project on front-end,
